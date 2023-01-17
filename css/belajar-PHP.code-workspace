@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../xampp/htdocs/belajar-PHP"
+		},
+		{
+			"path": "E:/Portofolio"
+		},
+		{
+			"path": "D:/VScript"
+		},
+		{
+			"path": "E:/Frontend Course/advanced-css-course-master/advanced-css-course-master/Natours"
+		},
+		{
+			"path": "../../../Natours"
+		},
+		{
+			"path": "E:/Frontend Course/Trillo/starter"
+		},
+		{
+			"path": "../../../Trillo"
+		},
+		{
+			"path": "E:/Frontend Course/Trillo/final"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
